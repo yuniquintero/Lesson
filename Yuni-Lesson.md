@@ -1,6 +1,6 @@
 # Lesson X: Biometric Authentication in iOS with Swift
 
-### Lesson Duration: 2 hours 40 minutes
+### Lesson Duration: 3 hours
 
 > Purpose: The purpose of this lesson is to introduce Biometric Authentication concepts, requirements and final implementation in an iOS App.
 
